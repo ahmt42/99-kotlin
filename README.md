@@ -14,9 +14,9 @@ These are just general guidelines, and the actual difficulty can vary depending 
 
 Prolog problems often use asterisks (*) to denote their difficulty level. Here's a breakdown of what each notation typically indicates:
 
-* **Single asterisk (*)**: Easy problems. These can be solved by beginners within 15 minutes or so.
-* **Double asterisk (**)**: Intermediate difficulty problems. Solving these might take a skilled Prolog programmer 30-90 minutes.
-* **Triple asterisk (***)**: Difficult problems.  Finding a good solution for these can take several hours or even more.
+* Single asterisk (*) : Easy problems. These can be solved by beginners within 15 minutes or so.
+* Double asterisk (**) : Intermediate difficulty problems. Solving these might take a skilled Prolog programmer 30-90 minutes.
+* Triple asterisk (***) : Difficult problems.  Finding a good solution for these can take several hours or even more.
 
 **Note:** These are just general guidelines. The actual difficulty can vary depending on your experience and the specific problem you're tackling.
 
