@@ -29,7 +29,12 @@ Example:
 8
 ```
 
-
+### [P02][] (*) Find the last but one element of a list.
+Example:
+``` kotlin
+> penultimate(listOf(1, 1, 2, 3, 5, 8))
+5
+```
 
 
 
@@ -38,3 +43,4 @@ Example:
 
 
 [P01]: https://github.com/ahmt42/99-kotlin
+[P02]: https://github.com/ahmt42/99-kotlin
