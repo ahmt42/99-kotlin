@@ -20,3 +20,21 @@ Prolog problems often use asterisks (*) to denote their difficulty level. Here's
 
 **Note:** These are just general guidelines. The actual difficulty can vary depending on your experience and the specific problem you're tackling.
 
+## Lists
+
+### [P01][] (*) Find the last element of a list.
+Example:
+``` kotlin
+> last(listOf(1, 1, 2, 3, 5, 8))
+8
+```
+
+
+
+
+
+
+
+
+
+[P01]: https://github.com/ahmt42/99-kotlin
