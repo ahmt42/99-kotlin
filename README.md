@@ -36,6 +36,13 @@ Example:
 5
 ```
 
+### [P03][] (*) Find the Nth element of a list.
+By convention, the first element in the list is element ``0``.
+Example:
+``` kotlin
+> nth(2, listOf(1, 1, 2, 3, 5, 8))
+2
+```
 
 
 
@@ -44,3 +51,6 @@ Example:
 
 [P01]: https://github.com/ahmt42/99-kotlin
 [P02]: https://github.com/ahmt42/99-kotlin
+[P03]: https://github.com/ahmt42/99-kotlin
+
+
