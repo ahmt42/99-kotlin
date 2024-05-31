@@ -51,10 +51,19 @@ Example:
 6
 ```
 
+### [P05][] (*) Reverse a list.
+Example:
+``` kotlin
+> reverse(listOf(1, 1, 2, 3, 5, 8))
+[8, 5, 3, 2, 1, 1]
+```
+
+
 
 [P01]: https://github.com/ahmt42/99-kotlin
 [P02]: https://github.com/ahmt42/99-kotlin
 [P03]: https://github.com/ahmt42/99-kotlin
 [P04]: https://github.com/ahmt42/99-kotlin
+[P05]: https://github.com/ahmt42/99-kotlin
 
 
