@@ -44,13 +44,17 @@ Example:
 2
 ```
 
-
-
-
+### [P04][] (*) Find the number of elements of a list.
+Example:
+``` kotlin
+> length(listOf(1, 1, 2, 3, 5, 8))
+6
+```
 
 
 [P01]: https://github.com/ahmt42/99-kotlin
 [P02]: https://github.com/ahmt42/99-kotlin
 [P03]: https://github.com/ahmt42/99-kotlin
+[P04]: https://github.com/ahmt42/99-kotlin
 
 
